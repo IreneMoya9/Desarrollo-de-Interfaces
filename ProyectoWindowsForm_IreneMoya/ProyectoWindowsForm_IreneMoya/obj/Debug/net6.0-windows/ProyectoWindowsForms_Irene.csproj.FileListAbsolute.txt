@@ -1,0 +1,76 @@
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.exe
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.deps.json
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.runtimeconfig.json
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.dll
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.pdb
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.Form1.resources
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.Properties.Resources.resources
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.dll
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\refint\ProyectoWindowsForms_Irene.dll
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.pdb
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\IRE\ProyectoWindowsForms_Irene\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ref\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.exe
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.deps.json
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.runtimeconfig.json
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.pdb
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.Form1.resources
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.Properties.Resources.resources
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.csproj.GenerateResource.cache
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.AssemblyInfoInputs.cache
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.AssemblyInfo.cs
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.csproj.CoreCompileInputs.cache
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\refint\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.pdb
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.genruntimeconfig.cache
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\ProyectoWindowsForms_Irene\obj\Debug\net6.0-windows\ref\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.exe
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.deps.json
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.runtimeconfig.json
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.pdb
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.Form1.resources
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.Properties.Resources.resources
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.csproj.GenerateResource.cache
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.AssemblyInfoInputs.cache
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.AssemblyInfo.cs
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.csproj.CoreCompileInputs.cache
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\refint\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.pdb
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.genruntimeconfig.cache
+C:\Users\irene\Downloads\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ref\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.Form1.resources
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.Properties.Resources.resources
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.csproj.GenerateResource.cache
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.AssemblyInfoInputs.cache
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.AssemblyInfo.cs
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.csproj.CoreCompileInputs.cache
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\refint\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.pdb
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.exe
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.deps.json
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.runtimeconfig.json
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\ProyectoWindowsForms_Irene.pdb
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ProyectoWindowsForms_Irene.genruntimeconfig.cache
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\obj\Debug\net6.0-windows\ref\ProyectoWindowsForms_Irene.dll
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\fondo.png
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\fondo2.png
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\imagen1.jpg
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\imagen2.jpg
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\imagen3.jpg
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\logo.jpg
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\logo.png
+C:\Users\irene\OneDrive\Desktop\Proyecto-20231126T111447Z-001\Proyecto\bin\Debug\net6.0-windows\porDefecto.jpg
