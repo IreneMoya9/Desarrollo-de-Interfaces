@@ -1,0 +1,30 @@
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\bin\Debug\net6.0\EjercicioB.exe
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\bin\Debug\net6.0\EjercicioB.txt
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\bin\Debug\net6.0\EjercicioB.deps.json
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\bin\Debug\net6.0\EjercicioB.runtimeconfig.json
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\bin\Debug\net6.0\EjercicioB.dll
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\bin\Debug\net6.0\EjercicioB.pdb
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.AssemblyInfoInputs.cache
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.AssemblyInfo.cs
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.csproj.CoreCompileInputs.cache
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.dll
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\obj\Debug\net6.0\refint\EjercicioB.dll
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.pdb
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.genruntimeconfig.cache
+C:\Users\irene\OneDrive\Desktop\DAM GINES\EjercicioB\EjercicioB\obj\Debug\net6.0\ref\EjercicioB.dll
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\bin\Debug\net6.0\EjercicioB.exe
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\bin\Debug\net6.0\EjercicioB.txt
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\bin\Debug\net6.0\EjercicioB.deps.json
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\bin\Debug\net6.0\EjercicioB.runtimeconfig.json
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\bin\Debug\net6.0\EjercicioB.dll
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\bin\Debug\net6.0\EjercicioB.pdb
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.AssemblyInfoInputs.cache
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.AssemblyInfo.cs
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.csproj.CoreCompileInputs.cache
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.dll
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\obj\Debug\net6.0\refint\EjercicioB.dll
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.pdb
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\obj\Debug\net6.0\EjercicioB.genruntimeconfig.cache
+C:\Users\irene\OneDrive\Desktop\DAM GINES\DI - C#\EjercicioB\EjercicioB\obj\Debug\net6.0\ref\EjercicioB.dll
